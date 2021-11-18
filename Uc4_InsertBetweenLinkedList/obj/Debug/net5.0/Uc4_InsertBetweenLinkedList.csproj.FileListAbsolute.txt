@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\Uc4_InsertBetweenLinkedList\Uc4_InsertBetweenLinkedList\bin\Debug\net5.0\Uc4_InsertBetweenLinkedList.exe
+C:\Users\Vishal\source\repos\Uc4_InsertBetweenLinkedList\Uc4_InsertBetweenLinkedList\bin\Debug\net5.0\Uc4_InsertBetweenLinkedList.deps.json
+C:\Users\Vishal\source\repos\Uc4_InsertBetweenLinkedList\Uc4_InsertBetweenLinkedList\bin\Debug\net5.0\Uc4_InsertBetweenLinkedList.runtimeconfig.json
+C:\Users\Vishal\source\repos\Uc4_InsertBetweenLinkedList\Uc4_InsertBetweenLinkedList\bin\Debug\net5.0\Uc4_InsertBetweenLinkedList.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\Uc4_InsertBetweenLinkedList\Uc4_InsertBetweenLinkedList\bin\Debug\net5.0\Uc4_InsertBetweenLinkedList.dll
+C:\Users\Vishal\source\repos\Uc4_InsertBetweenLinkedList\Uc4_InsertBetweenLinkedList\bin\Debug\net5.0\ref\Uc4_InsertBetweenLinkedList.dll
+C:\Users\Vishal\source\repos\Uc4_InsertBetweenLinkedList\Uc4_InsertBetweenLinkedList\bin\Debug\net5.0\Uc4_InsertBetweenLinkedList.pdb
+C:\Users\Vishal\source\repos\Uc4_InsertBetweenLinkedList\Uc4_InsertBetweenLinkedList\obj\Debug\net5.0\Uc4_InsertBetweenLinkedList.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\Uc4_InsertBetweenLinkedList\Uc4_InsertBetweenLinkedList\obj\Debug\net5.0\Uc4_InsertBetweenLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\Uc4_InsertBetweenLinkedList\Uc4_InsertBetweenLinkedList\obj\Debug\net5.0\Uc4_InsertBetweenLinkedList.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\Uc4_InsertBetweenLinkedList\Uc4_InsertBetweenLinkedList\obj\Debug\net5.0\Uc4_InsertBetweenLinkedList.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\Uc4_InsertBetweenLinkedList\Uc4_InsertBetweenLinkedList\obj\Debug\net5.0\Uc4_InsertBetweenLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\Uc4_InsertBetweenLinkedList\Uc4_InsertBetweenLinkedList\obj\Debug\net5.0\Uc4_InsertBetweenLinkedList.dll
+C:\Users\Vishal\source\repos\Uc4_InsertBetweenLinkedList\Uc4_InsertBetweenLinkedList\obj\Debug\net5.0\ref\Uc4_InsertBetweenLinkedList.dll
+C:\Users\Vishal\source\repos\Uc4_InsertBetweenLinkedList\Uc4_InsertBetweenLinkedList\obj\Debug\net5.0\Uc4_InsertBetweenLinkedList.pdb
+C:\Users\Vishal\source\repos\Uc4_InsertBetweenLinkedList\Uc4_InsertBetweenLinkedList\obj\Debug\net5.0\Uc4_InsertBetweenLinkedList.genruntimeconfig.cache
