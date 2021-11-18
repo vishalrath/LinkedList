@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\Uc9_DeleteSizeLinkedList\Uc9_DeleteSizeLinkedList\bin\Debug\net5.0\Uc9_DeleteSizeLinkedList.exe
+C:\Users\Vishal\source\repos\Uc9_DeleteSizeLinkedList\Uc9_DeleteSizeLinkedList\bin\Debug\net5.0\Uc9_DeleteSizeLinkedList.deps.json
+C:\Users\Vishal\source\repos\Uc9_DeleteSizeLinkedList\Uc9_DeleteSizeLinkedList\bin\Debug\net5.0\Uc9_DeleteSizeLinkedList.runtimeconfig.json
+C:\Users\Vishal\source\repos\Uc9_DeleteSizeLinkedList\Uc9_DeleteSizeLinkedList\bin\Debug\net5.0\Uc9_DeleteSizeLinkedList.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\Uc9_DeleteSizeLinkedList\Uc9_DeleteSizeLinkedList\bin\Debug\net5.0\Uc9_DeleteSizeLinkedList.dll
+C:\Users\Vishal\source\repos\Uc9_DeleteSizeLinkedList\Uc9_DeleteSizeLinkedList\bin\Debug\net5.0\ref\Uc9_DeleteSizeLinkedList.dll
+C:\Users\Vishal\source\repos\Uc9_DeleteSizeLinkedList\Uc9_DeleteSizeLinkedList\bin\Debug\net5.0\Uc9_DeleteSizeLinkedList.pdb
+C:\Users\Vishal\source\repos\Uc9_DeleteSizeLinkedList\Uc9_DeleteSizeLinkedList\obj\Debug\net5.0\Uc9_DeleteSizeLinkedList.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\Uc9_DeleteSizeLinkedList\Uc9_DeleteSizeLinkedList\obj\Debug\net5.0\Uc9_DeleteSizeLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\Uc9_DeleteSizeLinkedList\Uc9_DeleteSizeLinkedList\obj\Debug\net5.0\Uc9_DeleteSizeLinkedList.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\Uc9_DeleteSizeLinkedList\Uc9_DeleteSizeLinkedList\obj\Debug\net5.0\Uc9_DeleteSizeLinkedList.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\Uc9_DeleteSizeLinkedList\Uc9_DeleteSizeLinkedList\obj\Debug\net5.0\Uc9_DeleteSizeLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\Uc9_DeleteSizeLinkedList\Uc9_DeleteSizeLinkedList\obj\Debug\net5.0\Uc9_DeleteSizeLinkedList.dll
+C:\Users\Vishal\source\repos\Uc9_DeleteSizeLinkedList\Uc9_DeleteSizeLinkedList\obj\Debug\net5.0\ref\Uc9_DeleteSizeLinkedList.dll
+C:\Users\Vishal\source\repos\Uc9_DeleteSizeLinkedList\Uc9_DeleteSizeLinkedList\obj\Debug\net5.0\Uc9_DeleteSizeLinkedList.pdb
+C:\Users\Vishal\source\repos\Uc9_DeleteSizeLinkedList\Uc9_DeleteSizeLinkedList\obj\Debug\net5.0\Uc9_DeleteSizeLinkedList.genruntimeconfig.cache
