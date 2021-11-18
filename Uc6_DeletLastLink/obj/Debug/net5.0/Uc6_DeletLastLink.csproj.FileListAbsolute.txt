@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\Uc6_DeletLastLink\Uc6_DeletLastLink\bin\Debug\net5.0\Uc6_DeletLastLink.exe
+C:\Users\Vishal\source\repos\Uc6_DeletLastLink\Uc6_DeletLastLink\bin\Debug\net5.0\Uc6_DeletLastLink.deps.json
+C:\Users\Vishal\source\repos\Uc6_DeletLastLink\Uc6_DeletLastLink\bin\Debug\net5.0\Uc6_DeletLastLink.runtimeconfig.json
+C:\Users\Vishal\source\repos\Uc6_DeletLastLink\Uc6_DeletLastLink\bin\Debug\net5.0\Uc6_DeletLastLink.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\Uc6_DeletLastLink\Uc6_DeletLastLink\bin\Debug\net5.0\Uc6_DeletLastLink.dll
+C:\Users\Vishal\source\repos\Uc6_DeletLastLink\Uc6_DeletLastLink\bin\Debug\net5.0\ref\Uc6_DeletLastLink.dll
+C:\Users\Vishal\source\repos\Uc6_DeletLastLink\Uc6_DeletLastLink\bin\Debug\net5.0\Uc6_DeletLastLink.pdb
+C:\Users\Vishal\source\repos\Uc6_DeletLastLink\Uc6_DeletLastLink\obj\Debug\net5.0\Uc6_DeletLastLink.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\Uc6_DeletLastLink\Uc6_DeletLastLink\obj\Debug\net5.0\Uc6_DeletLastLink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\Uc6_DeletLastLink\Uc6_DeletLastLink\obj\Debug\net5.0\Uc6_DeletLastLink.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\Uc6_DeletLastLink\Uc6_DeletLastLink\obj\Debug\net5.0\Uc6_DeletLastLink.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\Uc6_DeletLastLink\Uc6_DeletLastLink\obj\Debug\net5.0\Uc6_DeletLastLink.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\Uc6_DeletLastLink\Uc6_DeletLastLink\obj\Debug\net5.0\Uc6_DeletLastLink.dll
+C:\Users\Vishal\source\repos\Uc6_DeletLastLink\Uc6_DeletLastLink\obj\Debug\net5.0\ref\Uc6_DeletLastLink.dll
+C:\Users\Vishal\source\repos\Uc6_DeletLastLink\Uc6_DeletLastLink\obj\Debug\net5.0\Uc6_DeletLastLink.pdb
+C:\Users\Vishal\source\repos\Uc6_DeletLastLink\Uc6_DeletLastLink\obj\Debug\net5.0\Uc6_DeletLastLink.genruntimeconfig.cache

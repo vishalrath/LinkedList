@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uc6_DeletLastLink", "Uc6_DeletLastLink\Uc6_DeletLastLink.csproj", "{B4A7D320-D7D0-43A9-8F8B-6595A6394422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4A7D320-D7D0-43A9-8F8B-6595A6394422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A7D320-D7D0-43A9-8F8B-6595A6394422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A7D320-D7D0-43A9-8F8B-6595A6394422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A7D320-D7D0-43A9-8F8B-6595A6394422}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCE02882-DAC1-4064-8F12-65255DC6DE88}
+	EndGlobalSection
+EndGlobal

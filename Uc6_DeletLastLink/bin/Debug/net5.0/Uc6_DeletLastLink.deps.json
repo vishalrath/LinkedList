@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Uc6_DeletLastLink/1.0.0": {
+        "runtime": {
+          "Uc6_DeletLastLink.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uc6_DeletLastLink/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
