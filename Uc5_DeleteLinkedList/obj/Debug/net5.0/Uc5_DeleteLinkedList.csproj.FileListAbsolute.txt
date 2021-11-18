@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\Uc5_DeleteLinkedList\Uc5_DeleteLinkedList\bin\Debug\net5.0\Uc5_DeleteLinkedList.exe
+C:\Users\Vishal\source\repos\Uc5_DeleteLinkedList\Uc5_DeleteLinkedList\bin\Debug\net5.0\Uc5_DeleteLinkedList.deps.json
+C:\Users\Vishal\source\repos\Uc5_DeleteLinkedList\Uc5_DeleteLinkedList\bin\Debug\net5.0\Uc5_DeleteLinkedList.runtimeconfig.json
+C:\Users\Vishal\source\repos\Uc5_DeleteLinkedList\Uc5_DeleteLinkedList\bin\Debug\net5.0\Uc5_DeleteLinkedList.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\Uc5_DeleteLinkedList\Uc5_DeleteLinkedList\bin\Debug\net5.0\Uc5_DeleteLinkedList.dll
+C:\Users\Vishal\source\repos\Uc5_DeleteLinkedList\Uc5_DeleteLinkedList\bin\Debug\net5.0\ref\Uc5_DeleteLinkedList.dll
+C:\Users\Vishal\source\repos\Uc5_DeleteLinkedList\Uc5_DeleteLinkedList\bin\Debug\net5.0\Uc5_DeleteLinkedList.pdb
+C:\Users\Vishal\source\repos\Uc5_DeleteLinkedList\Uc5_DeleteLinkedList\obj\Debug\net5.0\Uc5_DeleteLinkedList.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\Uc5_DeleteLinkedList\Uc5_DeleteLinkedList\obj\Debug\net5.0\Uc5_DeleteLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\Uc5_DeleteLinkedList\Uc5_DeleteLinkedList\obj\Debug\net5.0\Uc5_DeleteLinkedList.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\Uc5_DeleteLinkedList\Uc5_DeleteLinkedList\obj\Debug\net5.0\Uc5_DeleteLinkedList.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\Uc5_DeleteLinkedList\Uc5_DeleteLinkedList\obj\Debug\net5.0\Uc5_DeleteLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\Uc5_DeleteLinkedList\Uc5_DeleteLinkedList\obj\Debug\net5.0\Uc5_DeleteLinkedList.dll
+C:\Users\Vishal\source\repos\Uc5_DeleteLinkedList\Uc5_DeleteLinkedList\obj\Debug\net5.0\ref\Uc5_DeleteLinkedList.dll
+C:\Users\Vishal\source\repos\Uc5_DeleteLinkedList\Uc5_DeleteLinkedList\obj\Debug\net5.0\Uc5_DeleteLinkedList.pdb
+C:\Users\Vishal\source\repos\Uc5_DeleteLinkedList\Uc5_DeleteLinkedList\obj\Debug\net5.0\Uc5_DeleteLinkedList.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Uc5_DeleteLinkedList/1.0.0": {
+        "runtime": {
+          "Uc5_DeleteLinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uc5_DeleteLinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
