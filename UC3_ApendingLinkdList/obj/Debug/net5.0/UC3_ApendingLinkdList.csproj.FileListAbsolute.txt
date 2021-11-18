@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\UC3_ApendingLinkdList\UC3_ApendingLinkdList\bin\Debug\net5.0\UC3_ApendingLinkdList.exe
+C:\Users\Vishal\source\repos\UC3_ApendingLinkdList\UC3_ApendingLinkdList\bin\Debug\net5.0\UC3_ApendingLinkdList.deps.json
+C:\Users\Vishal\source\repos\UC3_ApendingLinkdList\UC3_ApendingLinkdList\bin\Debug\net5.0\UC3_ApendingLinkdList.runtimeconfig.json
+C:\Users\Vishal\source\repos\UC3_ApendingLinkdList\UC3_ApendingLinkdList\bin\Debug\net5.0\UC3_ApendingLinkdList.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\UC3_ApendingLinkdList\UC3_ApendingLinkdList\bin\Debug\net5.0\UC3_ApendingLinkdList.dll
+C:\Users\Vishal\source\repos\UC3_ApendingLinkdList\UC3_ApendingLinkdList\bin\Debug\net5.0\ref\UC3_ApendingLinkdList.dll
+C:\Users\Vishal\source\repos\UC3_ApendingLinkdList\UC3_ApendingLinkdList\bin\Debug\net5.0\UC3_ApendingLinkdList.pdb
+C:\Users\Vishal\source\repos\UC3_ApendingLinkdList\UC3_ApendingLinkdList\obj\Debug\net5.0\UC3_ApendingLinkdList.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\UC3_ApendingLinkdList\UC3_ApendingLinkdList\obj\Debug\net5.0\UC3_ApendingLinkdList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\UC3_ApendingLinkdList\UC3_ApendingLinkdList\obj\Debug\net5.0\UC3_ApendingLinkdList.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\UC3_ApendingLinkdList\UC3_ApendingLinkdList\obj\Debug\net5.0\UC3_ApendingLinkdList.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\UC3_ApendingLinkdList\UC3_ApendingLinkdList\obj\Debug\net5.0\UC3_ApendingLinkdList.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\UC3_ApendingLinkdList\UC3_ApendingLinkdList\obj\Debug\net5.0\UC3_ApendingLinkdList.dll
+C:\Users\Vishal\source\repos\UC3_ApendingLinkdList\UC3_ApendingLinkdList\obj\Debug\net5.0\ref\UC3_ApendingLinkdList.dll
+C:\Users\Vishal\source\repos\UC3_ApendingLinkdList\UC3_ApendingLinkdList\obj\Debug\net5.0\UC3_ApendingLinkdList.pdb
+C:\Users\Vishal\source\repos\UC3_ApendingLinkdList\UC3_ApendingLinkdList\obj\Debug\net5.0\UC3_ApendingLinkdList.genruntimeconfig.cache
