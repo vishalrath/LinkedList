@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\Uc1_InsertLinkedList\Uc1_InsertLinkedList\bin\Debug\net5.0\Uc1_InsertLinkedList.exe
+C:\Users\Vishal\source\repos\Uc1_InsertLinkedList\Uc1_InsertLinkedList\bin\Debug\net5.0\Uc1_InsertLinkedList.deps.json
+C:\Users\Vishal\source\repos\Uc1_InsertLinkedList\Uc1_InsertLinkedList\bin\Debug\net5.0\Uc1_InsertLinkedList.runtimeconfig.json
+C:\Users\Vishal\source\repos\Uc1_InsertLinkedList\Uc1_InsertLinkedList\bin\Debug\net5.0\Uc1_InsertLinkedList.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\Uc1_InsertLinkedList\Uc1_InsertLinkedList\bin\Debug\net5.0\Uc1_InsertLinkedList.dll
+C:\Users\Vishal\source\repos\Uc1_InsertLinkedList\Uc1_InsertLinkedList\bin\Debug\net5.0\ref\Uc1_InsertLinkedList.dll
+C:\Users\Vishal\source\repos\Uc1_InsertLinkedList\Uc1_InsertLinkedList\bin\Debug\net5.0\Uc1_InsertLinkedList.pdb
+C:\Users\Vishal\source\repos\Uc1_InsertLinkedList\Uc1_InsertLinkedList\obj\Debug\net5.0\Uc1_InsertLinkedList.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\Uc1_InsertLinkedList\Uc1_InsertLinkedList\obj\Debug\net5.0\Uc1_InsertLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\Uc1_InsertLinkedList\Uc1_InsertLinkedList\obj\Debug\net5.0\Uc1_InsertLinkedList.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\Uc1_InsertLinkedList\Uc1_InsertLinkedList\obj\Debug\net5.0\Uc1_InsertLinkedList.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\Uc1_InsertLinkedList\Uc1_InsertLinkedList\obj\Debug\net5.0\Uc1_InsertLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\Uc1_InsertLinkedList\Uc1_InsertLinkedList\obj\Debug\net5.0\Uc1_InsertLinkedList.dll
+C:\Users\Vishal\source\repos\Uc1_InsertLinkedList\Uc1_InsertLinkedList\obj\Debug\net5.0\ref\Uc1_InsertLinkedList.dll
+C:\Users\Vishal\source\repos\Uc1_InsertLinkedList\Uc1_InsertLinkedList\obj\Debug\net5.0\Uc1_InsertLinkedList.pdb
+C:\Users\Vishal\source\repos\Uc1_InsertLinkedList\Uc1_InsertLinkedList\obj\Debug\net5.0\Uc1_InsertLinkedList.genruntimeconfig.cache

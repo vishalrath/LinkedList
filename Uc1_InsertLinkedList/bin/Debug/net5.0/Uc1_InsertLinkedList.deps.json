@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Uc1_InsertLinkedList/1.0.0": {
+        "runtime": {
+          "Uc1_InsertLinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uc1_InsertLinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
